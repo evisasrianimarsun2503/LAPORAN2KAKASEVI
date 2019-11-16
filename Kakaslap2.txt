@@ -1,3 +1,4 @@
-Nama  : Evi Sasriani Marsun
-Nim   : 60900117002
-Kelas : A
+Nama  	  : Evi Sasriani Marsun
+Nim   	  : 60900117002
+Kelas 	  : A
+Angkatan  : 2017
